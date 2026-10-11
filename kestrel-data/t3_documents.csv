@@ -1,0 +1,18 @@
+doc_id,holder,holder_role,doc_type,country,doc_number,issue_date,expiry_date,holder_email,holder_whatsapp,pa_email,notes
+DOC-01,Sana Mirza,CEO,Passport,Pakistan,ZZ4471203,2016-10-24,2026-10-22,sana.mirza@kestrel.example,+920000000201,rabia.anwar@kestrel.example,
+DOC-02,Sana Mirza,CEO,Visa,United Arab Emirates,UAE-ZZ-883120,2026-09-01,2026-11-30,sana.mirza@kestrel.example,+920000000201,rabia.anwar@kestrel.example,Multiple entry
+DOC-03,Faisal Rana,Director Finance,Passport,Pakistan,ZZ1180457,2017-05-01,2027-04-30,faisal.rana@kestrel.example,+920000000101,pa.directors@kestrel.example,
+DOC-04,Faisal Rana,Director Finance,Visa (Schengen),Germany,ZZD0098821,2026-05-26,2026-11-25,faisal.rana@kestrel.example,+920000000101,pa.directors@kestrel.example,
+DOC-05,Adeel Shah,Director Operations,Passport,Pakistan,ZZ7720915,2017-01-14,13 Jan 2027,adeel.shah@kestrel.example,+920000000102,pa.directors@kestrel.example,
+DOC-06,Nadia Farooq,Merchandiser,Passport,Pakistan,ZZ5503318,2021-03-02,02/03/2031,nadia.farooq@kestrel.example,+920000000110,,
+DOC-07,Nadia Farooq,Merchandiser,Visa,United Kingdom,ZZUK4407712,2026-02-14,2027-02-14,nadia.farooq@kestrel.example,+920000000110,,
+DOC-08,Omar Siddiqui,Maintenance Engineer,Passport,Pakistan,ZZ2290046,2017-05-04,04/05/2027,omar.siddiqui@kestrel.example,,,
+DOC-09,Imran Malik,Sales Manager,Passport,Pakistan,ZZ6618834,2016-09-30,2026-09-30,imran.malik@kestrel.example,+920000000211,,
+DOC-10,Imran Malik,Sales Manager,Visa,United States,ZZUS0201147,2022-03-10,2032-03-09,imran.malik@kestrel.example,+920000000211,,
+DOC-11,Hina Qureshi,Production Manager,Passport,Pakistan,ZZ3349010,2020-11-18,,hina.qureshi@kestrel.example,+920000000104,,
+DOC-12,Adeel Shah,Director Operations,Passport,Pakistan,ZZ9015532,2026-10-01,2036-09-30,adeel.shah@kestrel.example,+920000000102,pa.directors@kestrel.example,Renewed 01 Oct 2026
+DOC-13,Tariq Mehmood,QA Manager,Passport,Pakistan,ZZ8806127,2017-01-13,2027-01-13,tariq.mehmood@kestrel.example,+920000000212,,
+DOC-14,Kestrel Industries,Company,ISO 9001:2015 certificate,Pakistan,ZZ-QMS-55120,2023-11-14,2026-11-13,tariq.mehmood@kestrel.example,+920000000212,,Owner: QA Manager
+DOC-15,Kestrel Industries,Company,Fire safety certificate,Pakistan,ZZ-FS-2025-0912,2025-10-20,2026-10-19,admin@kestrel.example,,,Owner: Admin office
+DOC-16,Kestrel Industries,Company,Export registration,Pakistan,ZZ-EXP-77310,2025-07-01,2027-06-30,admin@kestrel.example,,,Owner: Admin office
+DOC-17,Nadia Farooq,Merchandiser,Visa,United Kingdom,ZZUK4407712,2026-02-14,2027-02-14,nadia.farooq@kestrel.example,+920000000110,,

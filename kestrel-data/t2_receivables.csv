@@ -1,0 +1,13 @@
+customer,invoice_no,invoice_date,due_date,amount,currency,paid_amount,owner,last_followup,notes
+Casa Lumen SL,INV-8840,2026-06-02,2026-08-01,41200.00,EUR,0,Nadia Farooq,2026-09-20,Buyer disputes a 3% shade claim
+Meridian Home Inc,INV-8911,2026-07-15,2026-09-10,22400.00,USD,0,Nadia Farooq,2026-10-01,
+Nordhaus GmbH,INV-8932,2026-07-28,2026-09-26,30500.00,EUR,15000.00,Imran Malik,2026-10-08,Part payment received 08 Oct
+Brightwell Ltd,INV-8950,2026-08-05,2026-10-04,12750.00,GBP,12750.00,Imran Malik,2026-10-05,Paid 05 Oct (bank ref 7731)
+Oakline Retail LLC,INV-8977,2026-08-20,2026-10-19,8900.00,USD,0,Imran Malik,,
+Vireo Homeware BV,INV-8990,2026-08-28,2026-10-27,26300.00,EUR,0,Nadia Farooq,,
+Sundeck Trading LLC,INV-8702,2026-05-10,2026-07-09,6400.00,USD,0,Imran Malik,2026-08-15,Customer not responding
+Meridian Home Inc,INV-9002,2026-09-01,2026-10-31,47800.00,USD,0,Nadia Farooq,,
+Casa Lumen SL,CN-0141,2026-09-12,2026-09-12,-1236.00,EUR,0,Nadia Farooq,,Credit note against INV-8840 (shade claim)
+Nordhaus GmbH,INV-9015,2026-09-18,2026-09-08,19900.00,EUR,0,Imran Malik,,
+Brightwell Ltd,INV-9020,2026-09-22,2026-11-21,9600.00,GBP,0,Imran Malik,,
+Meridian Home Inc,INV-8911,2026-07-15,2026-09-10,22400.00,USD,0,Nadia Farooq,2026-10-01,

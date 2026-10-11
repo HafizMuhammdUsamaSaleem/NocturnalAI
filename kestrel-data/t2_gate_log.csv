@@ -1,0 +1,8 @@
+gate_pass_no,date,time_out,vehicle_no,cartons,dispatch_ref,remarks
+GP-8806,2026-10-14,07:40,VH-7702,200,D-5508,
+GP-8801,2026-10-14,09:15,JX-4471,470,"D-5501, D-5503",Container MSKU 448812-3
+GP-8802,2026-10-14,10:40,JY-2210,410,D-5502,
+GP-8803,2026-10-14,13:05,JZ-1123,360,D-5505,"20 cartons short, loading stopped (rain)"
+GP-8804,2026-10-14,15:20,LES-551,95,D5506,
+GP-8805,2026-10-14,16:45,KB-3306,140,,Fabric return to supplier + samples
+GP-8807,2026-10-14,18:30,JX-9915,60,D-5509,

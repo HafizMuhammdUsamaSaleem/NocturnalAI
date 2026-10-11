@@ -1,0 +1,21 @@
+request_id,submitted_at,requester_id,type,description,amount,currency,approver_id,status,stage,stage_started_at,decided_by,decided_at,notes
+R-1001,2026-10-14 10:15,P07,purchase,"Corrugated cartons 5-ply, 4,000 pcs (PO draft 7781)",185000,PKR,P03,pending,manager,2026-10-14 10:15,,,
+R-1002,2026-10-14 16:40,P09,purchase,Spare parts: boiler feed pump seal kit (urgent),92500,PKR,P04,pending,manager,2026-10-14 16:40,,,
+R-1003,2026-10-13 11:00,P08,payment,"Advance to Taraz Poly Industries, 30% of PO 7745",1250000,PKR,P05,pending,director,2026-10-13 15:30,,,Manager approved 13 Oct 15:30
+R-1004,2026-10-09 17:30,P10,expense,Courier: buyer samples to Rotterdam,18400,PKR,P06,pending,manager,2026-10-09 17:30,,,
+R-1005,2026-10-14 16:42,P09,purchase,Spare parts: boiler feed pump seal kit (urgent),92500,PKR,P04,pending,manager,2026-10-14 16:42,,,
+R-1006,2026-10-13 09:20,P08,purchase,Accounting software annual licence renewal,4200,USD,P05,approved,,,P05,2026-10-14 12:00,
+R-1007,2026-10-12 10:00,P07,purchase,Wooden pallets x 200,140000,PKR,P04,approved,,,P04,2026-10-14 11:20,
+R-1008,2026-10-13 14:10,P10,expense,"Buyer dinner, 4 guests",38500,PKR,P02,rejected,,,P02,2026-10-14 09:45,Over the entertainment limit
+R-1009,2026-10-15 08:05,P09,purchase,Safety gloves and goggles (monthly),26000,PKR,P04,pending,manager,2026-10-15 08:05,,,
+R-1010,2026-10-14 09:30,P07,purchase,"Stretch film, 120 rolls",500000,PKR,P04,approved,,,P04,2026-10-14 15:00,
+R-1011,2026-10-14 12:45,P08,payment,"Electricity bill, September",2840000,PKR,,pending,manager,2026-10-14 12:45,,,
+R-1012,2026-10-14 11:10,P10,expense,Travel advance: Lahore buyer visit,65000,PKR,P02,Pending ,manager,2026-10-14 11:10,,,
+R-1013,2026-10-14 13:30,P07,purchase,Fire extinguisher refills x 24,54000,PKR,P04,PENDING,manager,2026-10-14 13:30,,,
+R-1014,2026-10-14 10:00,P09,purchase,Compressor overhaul (vendor quote Q-2291),650000,PKR,P04,pending,director,2026-10-14 14:00,,,Manager approved 14 Oct 14:00
+R-1015,2026-10-12 15:00,P08,payment,Freight forwarder invoice FF-1182,312000,PKR,P05,approved,,,P05,2026-10-13 10:30,
+R-1016,2026-10-14 15:30,P10,purchase,"Swatch card printing, 500 pcs",48000,PKR,P02,pending,manager,2026-10-14 15:30,,,
+R-1017,2026-10-13 16:00,P07,purchase,"Polybags 12x16, 50,000 pcs","1,20,000",PKR,P03,pending,manager,2026-10-13 16:00,,,
+R-1018,2026-10-14T06:30:00Z,P08,payment,Bank charges reimbursement,12500,PKR,P05,pending,manager,2026-10-14T06:30:00Z,,,
+R-1019,2026-10-14 17:55,P09,expense,"Overtime meals, maintenance shift",9600,PKR,P04,approved,,,P04,2026-10-15 08:10,
+R-1020,2026-10-12 11:45,P10,purchase,Trade fair booth deposit,980000,PKR,P02,pending,director,2026-10-13 12:00,,,Approved by P02 13 Oct 12:00

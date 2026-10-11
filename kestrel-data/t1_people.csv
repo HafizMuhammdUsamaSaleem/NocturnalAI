@@ -1,0 +1,11 @@
+person_id,name,role,department,email,whatsapp,manager_id,on_leave_from,on_leave_to,delegate_id
+P01,Faisal Rana,Director Finance,Finance,faisal.rana@kestrel.example,+920000000101,,,,
+P02,Adeel Shah,Director Operations,Operations,adeel.shah@kestrel.example,+920000000102,,,,
+P03,Kamran Javed,Procurement Manager,Procurement,kamran.javed@kestrel.example,+920000000103,P02,2026-10-12,2026-10-16,
+P04,Hina Qureshi,Production Manager,Production,hina.qureshi@kestrel.example,+920000000104,P02,,,
+P05,Usman Ghani,Finance Manager,Finance,usman.ghani@kestrel.example,+920000000105,P01,,,
+P06,Mariam Khan,HR Manager,HR,,+920000000106,P02,,,
+P07,Bilal Hassan,Stores Officer,Stores,bilal.hassan@kestrel.example,+920000000107,P04,,,
+P08,Zara Hussain,Accounts Officer,Finance,zara.hussain@kestrel.example,+920000000108,P05,,,
+P09,Omar Siddiqui,Maintenance Engineer,Production,omar.siddiqui@kestrel.example,,P04,,,
+P10,Nadia Farooq,Merchandiser,Sales,nadia.farooq@kestrel.example,+920000000110,P02,,,

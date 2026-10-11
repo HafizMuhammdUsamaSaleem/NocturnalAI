@@ -1,0 +1,6 @@
+trip_id,traveller,destination_country,depart_date,return_date,purpose
+T-01,Faisal Rana,Germany,2026-11-20,2026-11-27,Trade fair and buyer meetings
+T-02,Nadia Farooq,United Kingdom,2026-10-28,2026-11-04,Buyer visit
+T-03,Omar Siddiqui,China,2026-11-02,2026-11-10,Machine inspection at supplier
+T-04,Sana Mirza,United Arab Emirates,2026-10-19,2026-10-21,Bank meetings
+T-05,Hamza Iqbal,Turkey,2026-11-15,2026-11-19,Supplier audit

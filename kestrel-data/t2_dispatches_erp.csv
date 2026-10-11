@@ -1,0 +1,10 @@
+dispatch_no,dispatch_date,customer,country,order_no,cartons,invoice_no,invoice_value,currency,vehicle_no,status
+D-5501,2026-10-14,Nordhaus GmbH,DE,SO-2207,320,INV-9101,48600.00,EUR,JX-4471,Dispatched
+D-5502,2026-10-14,Meridian Home Inc,US,SO-2211,410,INV-9102,61250.00,USD,JY-2210,Dispatched
+D-5503,2026-10-14,Brightwell Ltd,GB,SO-2198,150,INV-9103,18900.00,GBP,JX-4471,Dispatched
+D-5504,2026-10-14,Casa Lumen SL,ES,SO-2215,275,INV-9104,33100.00,EUR,KA-9087,Dispatched
+D-5505,2026-10-14,Meridian Home Inc,US,SO-2216,380,INV-9105,57000.00,USD,JZ-1123,Dispatched
+D-5506,2026-10-14,Oakline Retail LLC,US,SO-2190,95,INV-9106,11400.00,USD,LES-551,Dispatched
+D-5507,2026-10-14,Sundeck Trading LLC,AE,SO-2220,120,INV-9107,9800.00,USD,,Cancelled
+D-5508,2026-10-13,Vireo Homeware BV,NL,SO-2201,200,INV-9099,24000.00,EUR,VH-7702,Dispatched
+D-5509,2026-10-14,Brightwell Ltd,GB,SO-2224,60,INV-9108,7200.00,GBP,JX-9915,Dispatched
